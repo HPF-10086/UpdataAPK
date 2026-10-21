@@ -4,7 +4,7 @@
 
 [下载最新主网版本](https://github.com/HPF-10086/UpdataAPK/releases/latest) · [查看全部版本](https://github.com/HPF-10086/UpdataAPK/releases)
 
-当前主网版：[BTV.VIP 0.8.9](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.9-mainnet)。本版更新行情默认货币显示、钱包金额自动刷新和品牌图标。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTV.VIP。
+当前主网版：[BTV.VIP 0.8.10](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.10-mainnet)。本版修复 Google 手机等桌面的圆形图标，完整金币适配圆形和圆角外形。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTV.VIP。
 
 - 名称包含 `Mainnet` 的安装包连接真实主网，不能当作无真实价值的 Shasta 测试包使用。具体支持范围以对应版本说明为准。
 - 普通 Android 手机通常选择 `arm64.apk`；x64 用于相应模拟器和兼容设备。
