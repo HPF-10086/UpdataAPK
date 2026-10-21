@@ -1,10 +1,10 @@
-# BTV.VIP Android 安装包（原 WalletHot）
+# BTC.VIP Android 安装包（原 WalletHot）
 
-本仓库仅提供 BTV.VIP Android APK、SHA-256 校验文件和版本说明，不包含源码、签名密钥或钱包数据。
+本仓库仅提供 BTC.VIP Android APK、SHA-256 校验文件和版本说明，不包含源码、签名密钥或钱包数据。
 
 [下载最新主网版本](https://github.com/HPF-10086/UpdataAPK/releases/latest) · [查看全部版本](https://github.com/HPF-10086/UpdataAPK/releases)
 
-当前主网版：[BTV.VIP 0.8.10](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.10-mainnet)。本版修复 Google 手机等桌面的圆形图标，完整金币适配圆形和圆角外形。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTV.VIP。
+当前主网版：[BTC.VIP 0.8.11](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.11-mainnet)。本版统一六位密码、输满自动解锁与分阶段锁定，增加行情自动刷新，并纠正应用名称。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTC.VIP。
 
 - 名称包含 `Mainnet` 的安装包连接真实主网，不能当作无真实价值的 Shasta 测试包使用。具体支持范围以对应版本说明为准。
 - 普通 Android 手机通常选择 `arm64.apk`；x64 用于相应模拟器和兼容设备。
