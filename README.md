@@ -4,7 +4,7 @@
 
 [下载最新主网版本](https://github.com/HPF-10086/UpdataAPK/releases/latest) · [查看全部版本](https://github.com/HPF-10086/UpdataAPK/releases)
 
-当前主网版：[BTC.VIP 0.8.15](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.15-mainnet)。本次优化登录后的余额加载：解锁后优先显示本机加密保存的上次余额，并后台刷新；TRX、USDT 分别更新，余额查询优先于交易动态。缓存仅供显示，转账仍执行实时校验。首次尚无缓存时仍需一次成功查询。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTC.VIP。
+当前主网版：[BTC.VIP 0.8.16](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.16-mainnet)。本次优先读取 USDT 余额，减少等待 TRX 查询的时间；首页长提示精简为“余额更新中”，详细原因点击查看；没有实际交易动态时收起提示区域，后台继续自动重试。保留加密显示缓存，转账仍执行实时校验。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTC.VIP。
 
 - 名称包含 `Mainnet` 的安装包连接真实主网，不能当作无真实价值的 Shasta 测试包使用。具体支持范围以对应版本说明为准。
 - 普通 Android 手机通常选择 `arm64.apk`；x64 用于相应模拟器和兼容设备。
