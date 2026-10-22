@@ -4,7 +4,7 @@
 
 [下载最新主网版本](https://github.com/HPF-10086/UpdataAPK/releases/latest) · [查看全部版本](https://github.com/HPF-10086/UpdataAPK/releases)
 
-当前主网版：[BTC.VIP 0.8.13](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.13-mainnet)。本次修复 TRON 余额刷新遇到 429 时反复请求的问题，增加自动退避、减少重复校验并合并同一地址查询；失败保留上次余额，不把查询失败显示成零。原蓝紫色主题统一调整为黑金配色，交易前安全校验保留。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTC.VIP。
+当前主网版：[BTC.VIP 0.8.14](https://github.com/HPF-10086/UpdataAPK/releases/tag/v0.8.14-mainnet)。本次修复首页交易动态失败后需要手动重试的问题：独立自动重试、分币种保留记录、限流自动退避，页面隐藏和后台时暂停请求。保留 0.8.13 的余额限流修复与黑金配色。附件名称保留 `WalletHot-Mainnet` 前缀，以兼容已有应用的更新识别；安装后显示 BTC.VIP。
 
 - 名称包含 `Mainnet` 的安装包连接真实主网，不能当作无真实价值的 Shasta 测试包使用。具体支持范围以对应版本说明为准。
 - 普通 Android 手机通常选择 `arm64.apk`；x64 用于相应模拟器和兼容设备。
